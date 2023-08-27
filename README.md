@@ -11,7 +11,7 @@ Delve into the "JAVAwockeez" team repository. It comprises the cutting-edge Java
 
 ## Members: 
 
-1. Horlador, Doane Marie I. | <a href = "https://github.com/DoaneMH">Github</a>
+1. Horlador, Doane Marie I.    | <a href = "https://github.com/DoaneMH">Github</a>
 2. Cabantug, Genine Lynelle C. | <a href = "https://github.com/GenineLynelleCabantug">Github</a>
-3. Lim, Kristel Mae C. | <a href = "https://github.com/kristelmaecasiananlim?fbclid=IwAR2mHX-pFdhgiANkMnj1MmlGek0SpzFADFEmxit6Hy7NBUFnQN6DXIUBIrQ">Github</a>
-4. Nacis, Ram Wisdom S.
+3. Lim, Kristel Mae C.         | <a href = "https://github.com/kristelmaecasiananlim?fbclid=IwAR2mHX-pFdhgiANkMnj1MmlGek0SpzFADFEmxit6Hy7NBUFnQN6DXIUBIrQ">Github</a>
+4. Nacis, Ram Wisdom S.        | <a href = "https://github.com/ramwisdom">Github</a>
