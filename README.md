@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <h1 align = "center">
-  <img src = "https://www.canva.com/folder/FAFstmDq6BY#">
+  <img src = "java3.png">
 <p><b>JAVAwockeez</b></p>
 </h1>
 
